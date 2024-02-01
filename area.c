@@ -10,5 +10,5 @@ int main(){
 	printf("add is: %s\n",c);
 	printf("enter your mobile: ");
 	scanf("%lf",&b);
-	printf("mo is: %.0lf",b);
+	printf("mobile no is: %.0lf",b);
 }
