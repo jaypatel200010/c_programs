@@ -6,7 +6,6 @@ int main(){
 	
 	printf("choose the operation from (/,*,+,-): ");
 	scanf("%c",&opt);
-//	printf("selected operation is: %c\n",opt);
 	printf("choose num1: ");
 	scanf("%d",&n1);
 	printf("choose num2: ");
